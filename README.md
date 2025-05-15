@@ -61,6 +61,12 @@ streamlit run app.py
 ```
 
 ---
+## Model File
+
+The trained model file (`model.safetensors`) is too large for GitHub. You can download it from the link below:
+
+👉 [Download model.safetensors](https://drive.google.com/uc?id=1zYTG8NN4qiA63MBAYs89m6tp5ClHv9xj)
+
 
 ## 📊 Dataset Used
 
