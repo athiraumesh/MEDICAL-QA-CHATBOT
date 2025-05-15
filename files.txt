@@ -1,0 +1,11 @@
+.gitattributes
+.gitignore
+README.md
+app.py
+load_data.py
+medical_qa_model/config.json
+medquads.json
+model_training.ipynb
+requirements.txt
+tfidf_matrix.pkl
+tfidf_vectorizer.pkl
