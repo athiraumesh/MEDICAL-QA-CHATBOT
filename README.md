@@ -84,3 +84,4 @@ This project is licensed under the MIT License.
 ## 👩‍💻 Author
 
 Athira V Umesh, Thrissur 🌴"# medical_qa_model" 
+"# medical_qa_model" 
